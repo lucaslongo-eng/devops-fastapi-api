@@ -106,7 +106,7 @@ Este projeto foi desenvolvido com o objetivo de consolidar conhecimentos em DevO
 
 A proposta foi ir além de apenas “criar uma API”, estruturando o projeto como se estivesse inserido em um fluxo profissional de engenharia.
 
----
+---------
 
 ## Status
 
